@@ -15,7 +15,6 @@ To Write a Java program that takes an integer input N from the user and prints a
 ## Program:
 ```
 /*
-Program to implement Reverse a String
 Developed by: Mohamed Muffashal K A
 Register Number: 212222220024 
 */
